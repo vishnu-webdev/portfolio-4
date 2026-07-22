@@ -1,29 +1,28 @@
 # Personal Portfolio Website
 
-A sleek, modern, and fully responsive personal portfolio website built using **HTML5**, **CSS3**, and **JavaScript**. Designed to showcase professional skills, projects, and developer identity with a clean UI/UX and a mobile-first approach.
+A dynamic and contemporary developer portfolio crafted with **HTML5**, **CSS3**, and **JavaScript**. Engineered to highlight technical expertise, creative projects, and professional background through an intuitive layout and fluid user experience.
 
 ---
 
 ## 🚀 Live Demo
 
-Check out the live version here:  
-👉 **[https://vishnu-webdev.github.io/portfolio-2/](https://vishnu-webdev.github.io/portfolio-4)**
+Explore the live project here:  
+👉 **[https://vishnu-webdev.github.io/portfolio-4/](https://vishnu-webdev.github.io/portfolio-4/)**
 
 ---
 
 ## ✨ Features
 
-* **Fully Responsive Layout:** Optimized to look and perform brilliantly across mobile devices, tablets, and desktop monitors.
-* **Interactive Elements:** Engaging UI components driven by smooth vanilla JavaScript, including a mobile hamburger menu.
-* **Projects Showcase Section:** Dedicated space to highlight development work with direct live preview links.
-* **Modern Styling:** Crafted with clean CSS layout principles, smooth transitions, and a dark theme.
-* **Lightweight & Fast:** Zero heavy framework baggage—built purely with native web technologies for high performance and fast load times.
+* **Seamless Contact System:** Integrated backend communication via Web3Forms, real-time client-side input validation, and a custom confirmation redirect.
+* **Fluid Responsiveness:** Perfectly optimized scaling across smartphones, tablets, and high-resolution desktop screens.
+* **Interactive Navigation:** Smooth dynamic menus and functional mobile hamburger toggling for effortless browsing.
+* **Curated Project Gallery:** Visually striking grids highlighting recent development builds with quick links to live code and previews.
+* **Optimized Performance:** Fast load speeds and clean architecture utilizing pure, vanilla web standards without external framework bloat.
 
 ---
 
 ## 🛠️ Built With
 
-* **HTML5** – Semantic markup and content layout
-* **CSS3** – Advanced styling, Flexbox layouts, and responsive media queries
-* **JavaScript** – DOM manipulation, event handling, and interactive mobile navigation
-
+* **HTML5** – Structured semantic components and accessibility-focused markup
+* **CSS3** – Modern styling paradigms, responsive grid/flexbox arrangements, and sleek aesthetic transitions
+* **JavaScript (ES6+)** – Asynchronous API data fetching, form validation logic, and dynamic DOM manipulation
