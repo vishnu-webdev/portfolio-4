@@ -1,6 +1,6 @@
-# Personal Portfolio Website
+# Personal Portfolio Website (Bootstrap)
 
-A dynamic and contemporary developer portfolio crafted with **HTML5**, **CSS3**, and **JavaScript**. Engineered to highlight technical expertise, creative projects, and professional background through an intuitive layout and fluid user experience.
+A sleek, responsive, and modern personal portfolio website built using **HTML5**, **Bootstrap 5**, and **JavaScript**. Designed to professionally showcase skills, projects, and developer background with a clean UI/UX and a mobile-first approach.
 
 ---
 
@@ -13,16 +13,17 @@ Explore the live project here:
 
 ## ✨ Features
 
-* **Seamless Contact System:** Integrated backend communication via Web3Forms, real-time client-side input validation, and a custom confirmation redirect.
-* **Fluid Responsiveness:** Perfectly optimized scaling across smartphones, tablets, and high-resolution desktop screens.
-* **Interactive Navigation:** Smooth dynamic menus and functional mobile hamburger toggling for effortless browsing.
-* **Curated Project Gallery:** Visually striking grids highlighting recent development builds with quick links to live code and previews.
-* **Optimized Performance:** Fast load speeds and clean architecture utilizing pure, vanilla web standards without external framework bloat.
+* **Bootstrap 5 Framework:** Utilizes robust grid systems, responsive utilities, and pre-built components for seamless scaling across devices.
+* **Interactive Contact System:** Integrated Web3Forms backend integration for reliable email submission, complete with client-side field validation and a custom confirmation redirect.
+* **Fully Responsive Design:** Tailored layout adjustments providing an optimal viewing experience across mobile phones, tablets, and desktop displays.
+* **Project Showcase:** Dedicated spaces utilizing Bootstrap cards to highlight development work and personal creations.
+* **Performance Focused:** Built cleanly alongside native web technologies for high speed and efficiency.
 
 ---
 
 ## 🛠️ Built With
 
-* **HTML5** – Structured semantic components and accessibility-focused markup
-* **CSS3** – Modern styling paradigms, responsive grid/flexbox arrangements, and sleek aesthetic transitions
-* **JavaScript (ES6+)** – Asynchronous API data fetching, form validation logic, and dynamic DOM manipulation
+* **HTML5** – Semantic markup and content structure
+* **Bootstrap 5** – Responsive grid framework and modern utility classes
+* **CSS3** – Custom styling overlays and layout enhancements
+* **JavaScript (ES6+)** – Asynchronous API requests, form validation logic, and DOM interactions
